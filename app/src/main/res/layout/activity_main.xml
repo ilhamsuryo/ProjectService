@@ -31,7 +31,7 @@
             android:layout_marginTop="10dp"
             android:text="Ilham"
             android:textAlignment="center"
-            android:textColor="#000000"
+            android:textColor="#D4D4D4"
             android:textSize="24sp" />
 
         <TextView
